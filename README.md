@@ -1,4 +1,2 @@
 # QAx
-Aprendendo testes automatizados.
-
-1
+Aprendendo testes automatizados em Robot.
