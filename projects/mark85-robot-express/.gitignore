@@ -1,5 +1,7 @@
 # Config
 .vscode/
 
-# Logs folder
+# Logs folder and files
 logs/
+*.html
+*.xml
